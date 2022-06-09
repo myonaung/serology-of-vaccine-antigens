@@ -1,1 +1,1 @@
-in progress
+# Calculating molecular force of infection (molFOI)
